@@ -1,0 +1,95 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /Lang (en) /ViewerPreferences << /DisplayDocTitle true >> >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [11 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Title (Designer Feedback Report - PowerWise) /Author (divyapriyadharshini) /Subject (Designer AI app testing) /Creator (Designer Testing Hub) /Producer (Designer Testing Hub) /CreationDate (D:20261019094628Z) >>
+endobj
+7 0 obj
+<< /Length 2820 >>
+stream
+BT /F2 22 Tf 0.1 0.11 0.14 rg 56 762.19 Td (Designer Feedback Report) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 56 743.39 Td (Generated 19 Oct 2026) Tj ET
+0.11 0.22 0.38 rg 56 729.89 483.28 2 re f
+BT /F2 10.5 Tf 0.1 0.11 0.14 rg 56 704.71 Td (Name) Tj ET
+BT /F1 10.5 Tf 0.1 0.11 0.14 rg 160 704.71 Td (divyapriyadharshini) Tj ET
+BT /F2 10.5 Tf 0.1 0.11 0.14 rg 56 687.71 Td (Project Title) Tj ET
+BT /F1 10.5 Tf 0.1 0.11 0.14 rg 160 687.71 Td (PowerWise) Tj ET
+BT /F2 10.5 Tf 0.1 0.11 0.14 rg 56 670.71 Td (Live Site) Tj ET
+BT /F1 10.5 Tf 0.06 0.33 0.78 rg 160 670.71 Td (https://powerwise-dusky.vercel.app) Tj ET
+0.06 0.33 0.78 RG 0.5 w 160 669.12 m 323.39 669.12 l S
+BT /F2 10.5 Tf 0.1 0.11 0.14 rg 56 653.71 Td (GitHub) Tj ET
+BT /F1 10.5 Tf 0.06 0.33 0.78 rg 160 653.71 Td (https://github.com/DIVYAPRIYADHARSHINI-GIT/powerwise) Tj ET
+0.06 0.33 0.78 RG 0.5 w 160 652.12 m 440.08 652.12 l S
+BT /F2 14 Tf 0.11 0.22 0.38 rg 56 614.99 Td (Summary) Tj ET
+0.8 0.82 0.86 RG 0.8 w 56 608.89 m 539.28 608.89 l S
+0.94 0.95 0.97 rg 56 577.89 483.28 22 re f
+0.8 0.82 0.86 RG 0.6 w 56 577.89 241.64 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 61 585.89 Td (Pros \(1\)) Tj ET
+0.8 0.82 0.86 RG 0.6 w 297.64 577.89 241.64 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 302.64 585.89 Td (Cons \(1\)) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 554.89 241.64 23 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 61 563.07 Td (Honest model accuracy vs a baseline) Tj ET
+0.8 0.82 0.86 RG 0.6 w 297.64 554.89 241.64 23 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 302.64 563.07 Td (Long thinking before the first file) Tj ET
+BT /F2 14 Tf 0.11 0.22 0.38 rg 56 517.99 Td (Pros) Tj ET
+0.8 0.82 0.86 RG 0.8 w 56 511.89 m 539.28 511.89 l S
+BT /F2 11.5 Tf 0.1 0.11 0.14 rg 56 484.87 Td (1. Honest model accuracy vs a baseline) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 56 469.39 Td (Reported MAE 39 units and R2 0.93 on unseen homes against a baseline of MAE 132 / R2 0.28 instead of) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 56 455.39 Td (only showing the best number.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 438.39 Td (Evidence: ) Tj ET
+BT /F1 10 Tf 0.06 0.33 0.78 rg 106.02 438.39 Td (Screenshot / video) Tj ET
+0.06 0.33 0.78 RG 0.5 w 106.02 436.79 m 188.84 436.79 l S
+BT /F1 10 Tf 0.4 0.43 0.48 rg 188.84 438.39 Td ( \(https://powerwise-dusky.vercel.app/predict\)) Tj ET
+BT /F2 14 Tf 0.11 0.22 0.38 rg 56 404.99 Td (Cons) Tj ET
+0.8 0.82 0.86 RG 0.8 w 56 398.89 m 539.28 398.89 l S
+BT /F2 11.5 Tf 0.1 0.11 0.14 rg 56 371.87 Td (1. Long thinking before the first file) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 56 356.39 Td (It planned for a long time before writing any code on the first prompt.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 46 m 539.28 46 l S
+BT /F1 8 Tf 0.4 0.43 0.48 rg 56 32 Td (Designer Feedback Report  |  PowerWise  |  divyapriyadharshini) Tj ET
+BT /F1 8 Tf 0.4 0.43 0.48 rg 498.36 32 Td (Page 1 of 1) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [160 667.25 323.39 679.33] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://powerwise-dusky.vercel.app) >> >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [160 650.25 440.08 662.33] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/powerwise) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [106.02 435.09 188.84 446.59] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://powerwise-dusky.vercel.app/predict) >> >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R /Annots [8 0 R 9 0 R 10 0 R] >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000000116 00000 n 
+0000000174 00000 n 
+0000000271 00000 n 
+0000000373 00000 n 
+0000000478 00000 n 
+0000000709 00000 n 
+0000003581 00000 n 
+0000003757 00000 n 
+0000003951 00000 n 
+0000004139 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R /Info 6 0 R >>
+startxref
+4321
+%%EOF

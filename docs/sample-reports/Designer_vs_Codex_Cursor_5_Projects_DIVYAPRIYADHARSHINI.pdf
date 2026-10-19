@@ -1,0 +1,255 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /Lang (en) /ViewerPreferences << /DisplayDocTitle true >> >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [14 0 R 16 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Title (Designer vs Codex & Cursor - 5 projects) /Author (divyapriyadharshini) /Subject (Designer AI app testing) /Creator (Designer Testing Hub) /Producer (Designer Testing Hub) /CreationDate (D:20261019094628Z) >>
+endobj
+7 0 obj
+<< /Length 7656 >>
+stream
+BT /F2 22 Tf 0.1 0.11 0.14 rg 56 762.19 Td (Designer vs Codex & Cursor) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 56 743.39 Td (Comparative report | Generated 19 Oct 2026) Tj ET
+0.11 0.22 0.38 rg 56 729.89 483.28 2 re f
+BT /F2 10.5 Tf 0.1 0.11 0.14 rg 56 704.71 Td (Name) Tj ET
+BT /F1 10.5 Tf 0.1 0.11 0.14 rg 160 704.71 Td (divyapriyadharshini) Tj ET
+BT /F2 10.5 Tf 0.1 0.11 0.14 rg 56 687.71 Td (Projects) Tj ET
+BT /F1 10.5 Tf 0.1 0.11 0.14 rg 160 687.71 Td (TrafficSense, SkyFare, Brain Arena, JobPilot, PowerWise) Tj ET
+BT /F2 14 Tf 0.11 0.22 0.38 rg 56 648.99 Td (Pros \(7\)) Tj ET
+0.8 0.82 0.86 RG 0.8 w 56 642.89 m 539.28 642.89 l S
+0.94 0.95 0.97 rg 56 611.89 483.28 22 re f
+0.8 0.82 0.86 RG 0.6 w 56 611.89 108.49 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 61 619.89 Td (Pro) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 611.89 197.26 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 169.49 619.89 Td (What Designer did) Tj ET
+0.8 0.82 0.86 RG 0.6 w 361.75 611.89 177.53 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 366.75 619.89 Td (Compared with Codex / Cursor) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 536.89 108.49 75 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 597.07 Td (Built the ML pipeline) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 584.07 Td (end to end) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 571.07 Td (TrafficSense) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 536.89 197.26 75 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 597.07 Td (Designer generated a realistic 26k-row) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 584.07 Td (dataset, trained the Random Forest, added) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 571.07 Td (a fallback model and wired it to the FastAPI) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 558.07 Td (routes without extra prompts.) Tj ET
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 169.49 545.07 Td (Evidence) Tj ET
+0.06 0.33 0.78 RG 0.5 w 169.49 543.46 m 208.56 543.46 l S
+0.8 0.82 0.86 RG 0.6 w 361.75 536.89 177.53 75 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 597.07 Td (Codex needed separate prompts for) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 584.07 Td (data generation and training; in Cursor I) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 571.07 Td (had to run each script myself.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 487.89 108.49 49 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 522.07 Td (Wrote and passed its) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 509.07 Td (own API tests) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 496.07 Td (TrafficSense) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 487.89 197.26 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 522.07 Td (11 API tests were written and run before the) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 509.07 Td (first deploy.) Tj ET
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 169.49 496.07 Td (Evidence) Tj ET
+0.06 0.33 0.78 RG 0.5 w 169.49 494.47 m 208.56 494.47 l S
+0.8 0.82 0.86 RG 0.6 w 361.75 487.89 177.53 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 522.07 Td (Cursor writes tests when asked but) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 509.07 Td (does not run them on its own.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 425.89 108.49 62 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 473.07 Td (Deployed with) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 460.07 Td (GitHub auto-deploy) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 447.07 Td (in one go) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 434.07 Td (SkyFare) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 425.89 197.26 62 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 473.07 Td (Created the repo, pushed and linked Vercel) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 460.07 Td (so every push deploys.) Tj ET
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 169.49 447.07 Td (Evidence) Tj ET
+0.06 0.33 0.78 RG 0.5 w 169.49 445.47 m 208.56 445.47 l S
+0.8 0.82 0.86 RG 0.6 w 361.75 425.89 177.53 62 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 473.07 Td (Codex and Cursor stop at the code;) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 460.07 Td (deployment is left to me.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 376.89 108.49 49 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 411.07 Td (11 languages) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 398.07 Td (including RTL Arabic) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 385.07 Td (SkyFare) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 376.89 197.26 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 411.07 Td (The whole UI, including the booking flow,) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 398.07 Td (works in 11 languages with right-to-left) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 385.07 Td (layout for Arabic.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 361.75 376.89 177.53 49 re S
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 366.75 411.07 Td (Not compared yet) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 314.89 108.49 62 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 362.07 Td (Playful mascot and) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 349.07 Td (sounds with no asset) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 336.07 Td (library) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 323.06 Td (Brain Arena) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 314.89 197.26 62 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 362.07 Td (Brainy the SVG mascot has 6 moods, and) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 349.07 Td (all sounds are synthesized with the Web) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 336.07 Td (Audio API.) Tj ET
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 169.49 323.06 Td (Evidence) Tj ET
+0.06 0.33 0.78 RG 0.5 w 169.49 321.46 m 208.56 321.46 l S
+0.8 0.82 0.86 RG 0.6 w 361.75 314.89 177.53 62 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 362.07 Td (Both Codex and Cursor reached for) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 349.07 Td (icon or sound packages first.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 252.89 108.49 62 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 300.06 Td (Dependency-free) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 287.06 Td (PDF and DOCX) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 274.06 Td (resume parsing) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 261.06 Td (JobPilot) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 252.89 197.26 62 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 300.06 Td (Resume text extraction works for both PDF) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 287.06 Td (and DOCX without adding a parsing library.) Tj ET
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 169.49 274.06 Td (Evidence) Tj ET
+0.06 0.33 0.78 RG 0.5 w 169.49 272.46 m 208.56 272.46 l S
+0.8 0.82 0.86 RG 0.6 w 361.75 252.89 177.53 62 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 300.06 Td (Cursor added pdf-parse and mammoth;) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 287.06 Td (Codex did the same.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 177.89 108.49 75 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 238.06 Td (Honest model) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 225.06 Td (accuracy vs a) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 212.06 Td (baseline) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 199.06 Td (PowerWise) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 177.89 197.26 75 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 238.06 Td (Reported MAE 39 units and R2 0.93 on) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 225.06 Td (unseen homes against a baseline of MAE) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 212.06 Td (132 / R2 0.28 instead of only showing the) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 199.06 Td (best number.) Tj ET
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 169.49 186.06 Td (Evidence) Tj ET
+0.06 0.33 0.78 RG 0.5 w 169.49 184.46 m 208.56 184.46 l S
+0.8 0.82 0.86 RG 0.6 w 361.75 177.89 177.53 75 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 238.06 Td (Codex reported training accuracy only.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 46 m 539.28 46 l S
+BT /F1 8 Tf 0.4 0.43 0.48 rg 56 32 Td (Designer vs Codex & Cursor  |  5 projects  |  divyapriyadharshini) Tj ET
+BT /F1 8 Tf 0.4 0.43 0.48 rg 498.36 32 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [169.49 541.93 208.56 552.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://trafficsense-brown.vercel.app) >> >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [169.49 492.93 208.56 503.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/trafficsense) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [169.49 443.93 208.56 454.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://skyfare-seven.vercel.app) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [169.49 319.93 208.56 330.85] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://brainarena-two.vercel.app) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [169.49 270.93 208.56 281.85] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://jobpilot-zeta-tan.vercel.app/profile) >> >>
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Link /Rect [169.49 182.93 208.56 193.85] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://powerwise-dusky.vercel.app/predict) >> >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R /Annots [8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R] >>
+endobj
+15 0 obj
+<< /Length 4894 >>
+stream
+BT /F2 14 Tf 0.11 0.22 0.38 rg 56 756.99 Td (Cons \(5\)) Tj ET
+0.8 0.82 0.86 RG 0.8 w 56 750.89 m 539.28 750.89 l S
+0.94 0.95 0.97 rg 56 719.89 483.28 22 re f
+0.8 0.82 0.86 RG 0.6 w 56 719.89 108.49 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 61 727.89 Td (Con) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 719.89 197.26 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 169.49 727.89 Td (What happened in Designer) Tj ET
+0.8 0.82 0.86 RG 0.6 w 361.75 719.89 177.53 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 366.75 727.89 Td (How Codex / Cursor handle it) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 657.89 108.49 62 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 705.07 Td (Python and Node) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 692.07 Td (setup needed retries) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 679.07 Td (TrafficSense) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 657.89 197.26 62 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 705.07 Td (Installing the backend and frontend) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 692.07 Td (dependencies took several attempts before) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 679.07 Td (both servers ran.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 361.75 657.89 177.53 62 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 705.07 Td (Cursor uses my own terminal so setup) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 692.07 Td (issues show up immediately; Codex) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 679.07 Td (hits the same issue but reports it) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 666.07 Td (sooner.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 608.89 108.49 49 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 643.07 Td (Large generated data) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 630.07 Td (slowed the first build) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 617.07 Td (SkyFare) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 608.89 197.26 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 643.07 Td (275k rows of simulated fares were bundled,) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 630.07 Td (which made the first production build slow.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 361.75 608.89 177.53 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 643.07 Td (Cursor suggested a smaller sample) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 630.07 Td (when asked; Codex produced a similar) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 617.07 Td (large file.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 546.89 108.49 62 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 594.07 Td (Needed manual) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 581.07 Td (GitHub App) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 568.07 Td (permission for Vercel) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 555.07 Td (Brain Arena) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 546.89 197.26 62 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 594.07 Td (Auto-deploy only started after I gave the) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 581.07 Td (Vercel GitHub App access to the new repo.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 361.75 546.89 177.53 62 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 594.07 Td (Same limitation applies to any tool;) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 581.07 Td (Codex and Cursor do not attempt the) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 568.07 Td (deploy at all.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 510.89 108.49 36 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 532.07 Td (Very long single files) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 519.07 Td (JobPilot) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 510.89 197.26 36 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 532.07 Td (Some pages ended up as one very long) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 519.07 Td (component, which made review harder.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 361.75 510.89 177.53 36 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 532.07 Td (Cursor tends to split components when) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 519.07 Td (it edits; Codex is similar to Designer.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 461.89 108.49 49 re S
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 496.07 Td (Long thinking before) Tj ET
+BT /F2 9.5 Tf 0.1 0.11 0.14 rg 61 483.07 Td (the first file) Tj ET
+BT /F1 9.5 Tf 0.4 0.43 0.48 rg 61 470.07 Td (PowerWise) Tj ET
+0.8 0.82 0.86 RG 0.6 w 164.49 461.89 197.26 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 496.07 Td (It planned for a long time before writing any) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 169.49 483.07 Td (code on the first prompt.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 361.75 461.89 177.53 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 496.07 Td (Cursor starts editing almost) Tj ET
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 366.75 483.07 Td (immediately.) Tj ET
+BT /F3 9.5 Tf 0.4 0.43 0.48 rg 56 442.07 Td (11 items of 12 include a Codex / Cursor comparison. Comparisons are the tester's own observations.) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 46 m 539.28 46 l S
+BT /F1 8 Tf 0.4 0.43 0.48 rg 56 32 Td (Designer vs Codex & Cursor  |  5 projects  |  divyapriyadharshini) Tj ET
+BT /F1 8 Tf 0.4 0.43 0.48 rg 498.36 32 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 15 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000009 00000 n 
+0000000116 00000 n 
+0000000181 00000 n 
+0000000278 00000 n 
+0000000380 00000 n 
+0000000485 00000 n 
+0000000719 00000 n 
+0000008427 00000 n 
+0000008609 00000 n 
+0000008809 00000 n 
+0000008987 00000 n 
+0000009166 00000 n 
+0000009356 00000 n 
+0000009544 00000 n 
+0000009747 00000 n 
+0000014694 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R /Info 6 0 R >>
+startxref
+14848
+%%EOF

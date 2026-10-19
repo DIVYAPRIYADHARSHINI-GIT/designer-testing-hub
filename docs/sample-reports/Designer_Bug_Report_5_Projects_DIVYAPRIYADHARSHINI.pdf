@@ -1,0 +1,398 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /Lang (en) /ViewerPreferences << /DisplayDocTitle true >> >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [29 0 R 35 0 R 38 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Title (Designer Bug Report - 5 projects) /Author (divyapriyadharshini) /Subject (Designer AI app testing) /Creator (Designer Testing Hub) /Producer (Designer Testing Hub) /CreationDate (D:20261019094628Z) >>
+endobj
+7 0 obj
+<< /Length 8279 >>
+stream
+BT /F2 22 Tf 0.1 0.11 0.14 rg 56 762.19 Td (Designer Bug Report) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 56 743.39 Td (Generated 19 Oct 2026) Tj ET
+0.11 0.22 0.38 rg 56 729.89 483.28 2 re f
+BT /F2 10.5 Tf 0.1 0.11 0.14 rg 56 704.71 Td (Reported by) Tj ET
+BT /F1 10.5 Tf 0.1 0.11 0.14 rg 160 704.71 Td (divyapriyadharshini) Tj ET
+BT /F2 10.5 Tf 0.1 0.11 0.14 rg 56 687.71 Td (Projects tested) Tj ET
+BT /F1 10.5 Tf 0.1 0.11 0.14 rg 160 687.71 Td (TrafficSense, SkyFare, Brain Arena, JobPilot, PowerWise) Tj ET
+BT /F2 10.5 Tf 0.1 0.11 0.14 rg 56 670.71 Td (Total bugs) Tj ET
+BT /F1 10.5 Tf 0.1 0.11 0.14 rg 160 670.71 Td (8 \(2 High, 3 Medium, 3 Low\)) Tj ET
+0.94 0.95 0.97 rg 56 636.89 483.28 22 re f
+0.8 0.82 0.86 RG 0.6 w 56 636.89 107.4 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 61 644.89 Td (Project) Tj ET
+0.8 0.82 0.86 RG 0.6 w 163.4 636.89 165.97 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 168.4 644.89 Td (Live site) Tj ET
+0.8 0.82 0.86 RG 0.6 w 329.37 636.89 165.97 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 334.37 644.89 Td (GitHub) Tj ET
+0.8 0.82 0.86 RG 0.6 w 495.35 636.89 43.93 22 re S
+BT /F2 9 Tf 0.1 0.11 0.14 rg 500.35 644.89 Td (Bugs) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 587.89 107.4 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 61 622.07 Td (TrafficSense) Tj ET
+0.8 0.82 0.86 RG 0.6 w 163.4 587.89 165.97 49 re S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 168.4 622.07 Td (https://trafficsense-brown.vercel.app) Tj ET
+0.06 0.33 0.78 RG 0.5 w 168.4 620.47 m 320.98 620.47 l S
+0.8 0.82 0.86 RG 0.6 w 329.37 587.89 165.97 49 re S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 622.07 Td (https://github.com/) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 620.47 m 412 620.47 l S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 609.07 Td (DIVYAPRIYADHARSHINI-GIT/) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 607.47 m 465.28 607.47 l S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 596.07 Td (trafficsense) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 594.47 m 382.94 594.47 l S
+0.8 0.82 0.86 RG 0.6 w 495.35 587.89 43.93 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 500.35 622.07 Td (2) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 538.89 107.4 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 61 573.07 Td (SkyFare) Tj ET
+0.8 0.82 0.86 RG 0.6 w 163.4 538.89 165.97 49 re S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 168.4 573.07 Td (https://skyfare-seven.vercel.app) Tj ET
+0.06 0.33 0.78 RG 0.5 w 168.4 571.46 m 302.51 571.46 l S
+0.8 0.82 0.86 RG 0.6 w 329.37 538.89 165.97 49 re S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 573.07 Td (https://github.com/) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 571.46 m 412 571.46 l S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 560.07 Td (DIVYAPRIYADHARSHINI-GIT/) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 558.46 m 465.28 558.46 l S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 547.07 Td (skyfare) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 545.46 m 364.99 545.46 l S
+0.8 0.82 0.86 RG 0.6 w 495.35 538.89 43.93 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 500.35 573.07 Td (1) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 489.89 107.4 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 61 524.07 Td (Brain Arena) Tj ET
+0.8 0.82 0.86 RG 0.6 w 163.4 489.89 165.97 49 re S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 168.4 524.07 Td (https://brainarena-two.vercel.app) Tj ET
+0.06 0.33 0.78 RG 0.5 w 168.4 522.46 m 306.73 522.46 l S
+0.8 0.82 0.86 RG 0.6 w 329.37 489.89 165.97 49 re S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 524.07 Td (https://github.com/) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 522.46 m 412 522.46 l S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 511.07 Td (DIVYAPRIYADHARSHINI-GIT/) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 509.47 m 465.28 509.47 l S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 498.07 Td (brainarena) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 496.47 m 379.78 496.47 l S
+0.8 0.82 0.86 RG 0.6 w 495.35 489.89 43.93 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 500.35 524.07 Td (1) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 440.89 107.4 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 61 475.07 Td (JobPilot) Tj ET
+0.8 0.82 0.86 RG 0.6 w 163.4 440.89 165.97 49 re S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 168.4 475.07 Td (https://jobpilot-zeta-tan.vercel.app) Tj ET
+0.06 0.33 0.78 RG 0.5 w 168.4 473.47 m 310.96 473.47 l S
+0.8 0.82 0.86 RG 0.6 w 329.37 440.89 165.97 49 re S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 475.07 Td (https://github.com/) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 473.47 m 412 473.47 l S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 462.07 Td (DIVYAPRIYADHARSHINI-GIT/) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 460.47 m 465.28 460.47 l S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 449.07 Td (jobpilot) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 447.47 m 364.47 447.47 l S
+0.8 0.82 0.86 RG 0.6 w 495.35 440.89 43.93 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 500.35 475.07 Td (2) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 391.89 107.4 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 61 426.07 Td (PowerWise) Tj ET
+0.8 0.82 0.86 RG 0.6 w 163.4 391.89 165.97 49 re S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 168.4 426.07 Td (https://powerwise-dusky.vercel.app) Tj ET
+0.06 0.33 0.78 RG 0.5 w 168.4 424.47 m 316.23 424.47 l S
+0.8 0.82 0.86 RG 0.6 w 329.37 391.89 165.97 49 re S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 426.07 Td (https://github.com/) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 424.47 m 412 424.47 l S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 413.07 Td (DIVYAPRIYADHARSHINI-GIT/) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 411.47 m 465.28 411.47 l S
+BT /F1 9.5 Tf 0.06 0.33 0.78 rg 334.37 400.07 Td (powerwise) Tj ET
+0.06 0.33 0.78 RG 0.5 w 334.37 398.47 m 379.24 398.47 l S
+0.8 0.82 0.86 RG 0.6 w 495.35 391.89 43.93 49 re S
+BT /F1 9.5 Tf 0.1 0.11 0.14 rg 500.35 426.07 Td (2) Tj ET
+BT /F2 14 Tf 0.11 0.22 0.38 rg 56 354.99 Td (Bugs) Tj ET
+0.8 0.82 0.86 RG 0.8 w 56 348.89 m 539.28 348.89 l S
+BT /F2 11.5 Tf 0.1 0.11 0.14 rg 56 321.87 Td (Bug 1: Browser test hung without a timeout \(TrafficSense\)) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 306.39 Td (Severity: ) Tj ET
+BT /F2 10 Tf 0.76 0.12 0.14 rg 101.02 306.39 Td (High) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 123.24 306.39 Td ( | ) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 131.4 306.39 Td (Status: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 168.07 306.39 Td (Reported) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 289.39 Td (Steps: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 89.34 289.39 Td (1. Ask Designer to run the end-to-end test against the local dev server.) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 56 275.39 Td (2. Wait for the headless Chrome run to finish.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 258.39 Td (Expected: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 106.57 258.39 Td (The test fails fast with a clear error when a page does not load.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 241.39 Td (Actual: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 92.67 241.39 Td (Headless Chrome waited forever and the run had to be stopped by hand.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 224.39 Td (Evidence: ) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 106.02 224.39 Td (None attached) Tj ET
+BT /F2 11.5 Tf 0.1 0.11 0.14 rg 56 199.87 Td (Bug 2: Page froze while retraining on a large CSV \(TrafficSense\)) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 184.39 Td (Severity: ) Tj ET
+BT /F2 10 Tf 0.7 0.42 0 rg 101.02 184.39 Td (Medium) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 138.8 184.39 Td ( | ) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 146.96 184.39 Td (Status: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 183.63 184.39 Td (Open) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 167.39 Td (Steps: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 89.34 167.39 Td (1. Open Insights.) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 56 153.39 Td (2. Upload a 20k-row CSV and click Retrain.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 136.39 Td (Expected: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 106.57 136.39 Td (A loading state, then the new model metrics.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 119.39 Td (Actual: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 92.67 119.39 Td (The tab stopped responding for several seconds before the result appeared.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 102.39 Td (Evidence: ) Tj ET
+BT /F1 10 Tf 0.06 0.33 0.78 rg 106.02 102.39 Td (Screenshot) Tj ET
+0.06 0.33 0.78 RG 0.5 w 106.02 100.79 m 156.6 100.79 l S
+BT /F1 10 Tf 0.4 0.43 0.48 rg 156.6 102.39 Td ( \(https://trafficsense-brown.vercel.app\)) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 46 m 539.28 46 l S
+BT /F1 8 Tf 0.4 0.43 0.48 rg 56 32 Td (Designer Bug Report  |  5 projects  |  divyapriyadharshini) Tj ET
+BT /F1 8 Tf 0.4 0.43 0.48 rg 498.36 32 Td (Page 1 of 3) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [168.4 618.93 320.98 629.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://trafficsense-brown.vercel.app) >> >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 618.93 412 629.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/trafficsense) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 605.93 465.28 616.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/trafficsense) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 592.93 382.94 603.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/trafficsense) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [168.4 569.93 302.51 580.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://skyfare-seven.vercel.app) >> >>
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 569.93 412 580.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/skyfare) >> >>
+endobj
+14 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 556.93 465.28 567.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/skyfare) >> >>
+endobj
+15 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 543.93 364.99 554.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/skyfare) >> >>
+endobj
+16 0 obj
+<< /Type /Annot /Subtype /Link /Rect [168.4 520.93 306.73 531.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://brainarena-two.vercel.app) >> >>
+endobj
+17 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 520.93 412 531.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/brainarena) >> >>
+endobj
+18 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 507.93 465.28 518.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/brainarena) >> >>
+endobj
+19 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 494.93 379.78 505.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/brainarena) >> >>
+endobj
+20 0 obj
+<< /Type /Annot /Subtype /Link /Rect [168.4 471.93 310.96 482.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://jobpilot-zeta-tan.vercel.app) >> >>
+endobj
+21 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 471.93 412 482.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/jobpilot) >> >>
+endobj
+22 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 458.93 465.28 469.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/jobpilot) >> >>
+endobj
+23 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 445.93 364.47 456.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/jobpilot) >> >>
+endobj
+24 0 obj
+<< /Type /Annot /Subtype /Link /Rect [168.4 422.93 316.23 433.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://powerwise-dusky.vercel.app) >> >>
+endobj
+25 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 422.93 412 433.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/powerwise) >> >>
+endobj
+26 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 409.93 465.28 420.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/powerwise) >> >>
+endobj
+27 0 obj
+<< /Type /Annot /Subtype /Link /Rect [334.37 396.93 379.24 407.86] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/powerwise) >> >>
+endobj
+28 0 obj
+<< /Type /Annot /Subtype /Link /Rect [106.02 99.09 156.6 110.59] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://trafficsense-brown.vercel.app) >> >>
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R /Annots [8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R] >>
+endobj
+30 0 obj
+<< /Length 6561 >>
+stream
+BT /F2 11.5 Tf 0.1 0.11 0.14 rg 56 765.87 Td (Bug 3: Hydration warning on the fare calendar \(SkyFare\)) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 750.39 Td (Severity: ) Tj ET
+BT /F2 10 Tf 0.12 0.48 0.25 rg 101.02 750.39 Td (Low) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 121.02 750.39 Td ( | ) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 129.18 750.39 Td (Status: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 165.85 750.39 Td (Fixed) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 733.39 Td (Steps: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 89.34 733.39 Td (1. Search BLR to DEL.) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 56 719.39 Td (2. Turn on Budget mode and open the fare calendar.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 702.39 Td (Expected: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 106.57 702.39 Td (No console errors.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 685.39 Td (Actual: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 92.67 685.39 Td (A hydration mismatch warning because dates were rendered in the server time zone.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 668.39 Td (Evidence: ) Tj ET
+BT /F1 10 Tf 0.06 0.33 0.78 rg 106.02 668.39 Td (Screenshot) Tj ET
+0.06 0.33 0.78 RG 0.5 w 106.02 666.79 m 156.6 666.79 l S
+BT /F1 10 Tf 0.4 0.43 0.48 rg 156.6 668.39 Td ( \(https://skyfare-seven.vercel.app\)) Tj ET
+BT /F2 11.5 Tf 0.1 0.11 0.14 rg 56 643.87 Td (Bug 4: Vercel GitHub App could not see the new repo \(Brain Arena\)) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 628.39 Td (Severity: ) Tj ET
+BT /F2 10 Tf 0.7 0.42 0 rg 101.02 628.39 Td (Medium) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 138.8 628.39 Td ( | ) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 146.96 628.39 Td (Status: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 183.63 628.39 Td (Reported) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 611.39 Td (Steps: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 89.34 611.39 Td (1. Ask Designer to deploy to Vercel with GitHub auto-deploy.) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 56 597.39 Td (2. Push a new commit.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 580.39 Td (Expected: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 106.57 580.39 Td (The Vercel project is linked to the repo and every push deploys.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 563.39 Td (Actual: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 92.67 563.39 Td (Linking failed until the Vercel GitHub App was given access to the repo by hand.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 546.39 Td (Evidence: ) Tj ET
+BT /F1 10 Tf 0.06 0.33 0.78 rg 106.02 546.39 Td (Chat link) Tj ET
+0.06 0.33 0.78 RG 0.5 w 106.02 544.79 m 144.92 544.79 l S
+BT /F1 10 Tf 0.4 0.43 0.48 rg 144.92 546.39 Td ( \(https://github.com/DIVYAPRIYADHARSHINI-GIT/brainarena\)) Tj ET
+BT /F2 11.5 Tf 0.1 0.11 0.14 rg 56 521.87 Td (Bug 5: Vercel GitHub App cannot see new repository \(JobPilot\)) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 506.39 Td (Severity: ) Tj ET
+BT /F2 10 Tf 0.7 0.42 0 rg 101.02 506.39 Td (Medium) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 138.8 506.39 Td ( | ) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 146.96 506.39 Td (Status: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 183.63 506.39 Td (Fixed) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 489.39 Td (Steps: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 89.34 489.39 Td (1. Create the GitHub repo with gh.) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 56 475.39 Td (2. Run vercel git connect.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 458.39 Td (Expected: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 106.57 458.39 Td (Auto-deploy is connected.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 441.39 Td (Actual: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 92.67 441.39 Td (Vercel reported it could not access the repository; the GitHub App permissions had to be updated.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 424.39 Td (Evidence: ) Tj ET
+BT /F1 10 Tf 0.06 0.33 0.78 rg 106.02 424.39 Td (Chat link) Tj ET
+0.06 0.33 0.78 RG 0.5 w 106.02 422.79 m 144.92 422.79 l S
+BT /F1 10 Tf 0.4 0.43 0.48 rg 144.92 424.39 Td ( \(https://github.com/DIVYAPRIYADHARSHINI-GIT/jobpilot\)) Tj ET
+BT /F2 11.5 Tf 0.1 0.11 0.14 rg 56 399.87 Td (Bug 6: Kanban drag and drop does not work on mobile \(JobPilot\)) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 384.39 Td (Severity: ) Tj ET
+BT /F2 10 Tf 0.12 0.48 0.25 rg 101.02 384.39 Td (Low) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 121.02 384.39 Td ( | ) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 129.18 384.39 Td (Status: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 165.85 384.39 Td (Open) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 367.39 Td (Steps: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 89.34 367.39 Td (1. Open Tracker on a phone.) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 56 353.39 Td (2. Long-press a card and drag it to "Interview".) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 336.39 Td (Expected: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 106.57 336.39 Td (The card moves to the new column.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 319.39 Td (Actual: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 92.67 319.39 Td (The page scrolls instead; the card cannot be moved without the status menu.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 302.39 Td (Evidence: ) Tj ET
+BT /F1 10 Tf 0.06 0.33 0.78 rg 106.02 302.39 Td (Screenshot) Tj ET
+0.06 0.33 0.78 RG 0.5 w 106.02 300.79 m 156.6 300.79 l S
+BT /F1 10 Tf 0.4 0.43 0.48 rg 156.6 302.39 Td ( \(https://jobpilot-zeta-tan.vercel.app/tracker\)) Tj ET
+BT /F2 11.5 Tf 0.1 0.11 0.14 rg 56 277.87 Td (Bug 7: Headless browser tests hang with no timeout \(PowerWise\)) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 262.39 Td (Severity: ) Tj ET
+BT /F2 10 Tf 0.76 0.12 0.14 rg 101.02 262.39 Td (High) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 123.24 262.39 Td ( | ) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 131.4 262.39 Td (Status: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 168.07 262.39 Td (Open) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 245.39 Td (Steps: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 89.34 245.39 Td (1. Run the 227-check e2e suite.) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 56 231.39 Td (2. One page waits for translations that never load.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 214.39 Td (Expected: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 106.57 214.39 Td (The check fails after a few seconds and the suite continues.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 197.39 Td (Actual: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 92.67 197.39 Td (The whole suite stalled until it was killed.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 180.39 Td (Evidence: ) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 106.02 180.39 Td (None attached) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 46 m 539.28 46 l S
+BT /F1 8 Tf 0.4 0.43 0.48 rg 56 32 Td (Designer Bug Report  |  5 projects  |  divyapriyadharshini) Tj ET
+BT /F1 8 Tf 0.4 0.43 0.48 rg 498.36 32 Td (Page 2 of 3) Tj ET
+endstream
+endobj
+31 0 obj
+<< /Type /Annot /Subtype /Link /Rect [106.02 665.09 156.6 676.59] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://skyfare-seven.vercel.app) >> >>
+endobj
+32 0 obj
+<< /Type /Annot /Subtype /Link /Rect [106.02 543.09 144.92 554.59] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/brainarena) >> >>
+endobj
+33 0 obj
+<< /Type /Annot /Subtype /Link /Rect [106.02 421.09 144.92 432.59] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://github.com/DIVYAPRIYADHARSHINI-GIT/jobpilot) >> >>
+endobj
+34 0 obj
+<< /Type /Annot /Subtype /Link /Rect [106.02 299.09 156.6 310.59] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://jobpilot-zeta-tan.vercel.app/tracker) >> >>
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 30 0 R /Annots [31 0 R 32 0 R 33 0 R 34 0 R] >>
+endobj
+36 0 obj
+<< /Length 1456 >>
+stream
+BT /F2 11.5 Tf 0.1 0.11 0.14 rg 56 765.87 Td (Bug 8: English text flashes before translations load \(PowerWise\)) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 750.39 Td (Severity: ) Tj ET
+BT /F2 10 Tf 0.12 0.48 0.25 rg 101.02 750.39 Td (Low) Tj ET
+BT /F1 10 Tf 0.4 0.43 0.48 rg 121.02 750.39 Td ( | ) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 129.18 750.39 Td (Status: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 165.85 750.39 Td (Fixed) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 733.39 Td (Steps: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 89.34 733.39 Td (1. Switch the language to Tamil.) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 56 719.39 Td (2. Reload the home page.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 702.39 Td (Expected: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 106.57 702.39 Td (The page appears directly in Tamil.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 685.39 Td (Actual: ) Tj ET
+BT /F1 10 Tf 0.1 0.11 0.14 rg 92.67 685.39 Td (English copy shows for a moment before switching.) Tj ET
+BT /F2 10 Tf 0.1 0.11 0.14 rg 56 668.39 Td (Evidence: ) Tj ET
+BT /F1 10 Tf 0.06 0.33 0.78 rg 106.02 668.39 Td (Screenshot) Tj ET
+0.06 0.33 0.78 RG 0.5 w 106.02 666.79 m 156.6 666.79 l S
+BT /F1 10 Tf 0.4 0.43 0.48 rg 156.6 668.39 Td ( \(https://powerwise-dusky.vercel.app\)) Tj ET
+0.8 0.82 0.86 RG 0.6 w 56 46 m 539.28 46 l S
+BT /F1 8 Tf 0.4 0.43 0.48 rg 56 32 Td (Designer Bug Report  |  5 projects  |  divyapriyadharshini) Tj ET
+BT /F1 8 Tf 0.4 0.43 0.48 rg 498.36 32 Td (Page 3 of 3) Tj ET
+endstream
+endobj
+37 0 obj
+<< /Type /Annot /Subtype /Link /Rect [106.02 665.09 156.6 676.59] /Border [0 0 0] /F 4 /A << /Type /Action /S /URI /URI (https://powerwise-dusky.vercel.app) >> >>
+endobj
+38 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 36 0 R /Annots [37 0 R] >>
+endobj
+xref
+0 39
+0000000000 65535 f 
+0000000009 00000 n 
+0000000116 00000 n 
+0000000188 00000 n 
+0000000285 00000 n 
+0000000387 00000 n 
+0000000492 00000 n 
+0000000719 00000 n 
+0000009050 00000 n 
+0000009231 00000 n 
+0000009428 00000 n 
+0000009629 00000 n 
+0000009830 00000 n 
+0000010007 00000 n 
+0000010200 00000 n 
+0000010396 00000 n 
+0000010592 00000 n 
+0000010770 00000 n 
+0000010966 00000 n 
+0000011165 00000 n 
+0000011364 00000 n 
+0000011545 00000 n 
+0000011739 00000 n 
+0000011936 00000 n 
+0000012133 00000 n 
+0000012312 00000 n 
+0000012507 00000 n 
+0000012705 00000 n 
+0000012903 00000 n 
+0000013084 00000 n 
+0000013392 00000 n 
+0000020006 00000 n 
+0000020183 00000 n 
+0000020382 00000 n 
+0000020579 00000 n 
+0000020768 00000 n 
+0000020960 00000 n 
+0000022469 00000 n 
+0000022648 00000 n 
+trailer
+<< /Size 39 /Root 1 0 R /Info 6 0 R >>
+startxref
+22819
+%%EOF

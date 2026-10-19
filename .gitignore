@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# SvelteKit / Vite build output
+.svelte-kit/
+build/
+.output/
+dist/
+/package
+vite.config.*.timestamp-*
+
+# Vercel
+.vercel/
+.vercel
+
+# Environment files (never commit secrets)
+.env
+.env.*
+!.env.example
+
+# Test output / temp
+tests/e2e/output/
+*.log
+npm-debug.log*
+tmp/
+.cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
