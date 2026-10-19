@@ -8,8 +8,12 @@ An internal tool for the team that tests the **Designer AI app** by building rea
 
 ## 🌐 Live demo
 
-- **Live site:** _deploying - link added after the first Vercel deploy_
+- **Live site:** https://designer-testing-hub.vercel.app
 - **GitHub:** https://github.com/DIVYAPRIYADHARSHINI-GIT/designer-testing-hub
+
+Try it: [Dashboard](https://designer-testing-hub.vercel.app) · [Projects](https://designer-testing-hub.vercel.app/projects) · [PowerWise project](https://designer-testing-hub.vercel.app/projects/p-powerwise) · [Bugs](https://designer-testing-hub.vercel.app/bugs) · [Reports](https://designer-testing-hub.vercel.app/reports) · [Daily update](https://designer-testing-hub.vercel.app/daily) · [Settings / Sheet sync](https://designer-testing-hub.vercel.app/settings)
+
+The full 165-check browser test passes against the live site (desktop, mobile, dark mode; every PDF/DOCX report downloaded and checked for clickable links).
 
 The app ships with sample data (5 projects by tester `divyapriyadharshini`). Use **Settings → Start fresh** to clear it.
 
