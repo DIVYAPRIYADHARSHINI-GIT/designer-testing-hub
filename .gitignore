@@ -13,9 +13,10 @@ vite.config.*.timestamp-*
 .vercel/
 .vercel
 
-# Environment files (never commit secrets)
+# Environment files (never commit secrets; vercel link writes .env.local)
 .env
 .env.*
+.env*.local
 !.env.example
 
 # Test output / temp
